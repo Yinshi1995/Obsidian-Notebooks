@@ -1,0 +1,3 @@
+# Summary
+
+Winbox is a small utility that allows the administration of [MikroTik](https://mikrotik.com) [[RouterOS]] using a fast and simple GUI. It is a native Win32/Win64 binary but can be run on **Linux** and **macOS (OSX)** using Wine. All Winbox interface functions are as close as possible mirroring the console functions, that is why there are no Winbox sections in the manual. Some advanced and system critical configurations are not possible from the Winbox, like MAC address change on an interface

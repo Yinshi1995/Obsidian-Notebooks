@@ -2,12 +2,18 @@
 
 A **computer network** is a set of computers sharing resources located on or provided by network nodes. Computers use common communication protocols over digital interconnections to communicate with each other.
 ## Table of contents
-
+#### Networking in general
+- [[Subnetting]]
+- [[Network Devices]]
+- [[VPN]]
+- [[Routing]]
+---
 #### Mikrotik
 - [[MikroTik Basics]]
 - [[WinBox]]
-* [[MikroTik Scripting]]
-* [[MikroTik Routing]]
+- [[CAPsMAN]]
+* [[RouterOS Scripting]]
+* [[RouterOS Routing]]
 
 > Everything I've learned about **MicroTik** from courses and documentation 
 > 	;-;
@@ -17,11 +23,11 @@ A **computer network** is a set of computers sharing resources located on or pro
 - [[Cisco Basics]]
 ___
 #### Network Monitoring
-
 * [[Network monitoring Basics]]
 * [[Wireshark]]
 ---
 #### Firewalls
+- [[Firewall Basics]]
 ---
 #### Network Emulating Software
 - [GNS3](https://www.gns3.com/)
