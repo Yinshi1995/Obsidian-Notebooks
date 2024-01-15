@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "52040a8b1351aa05",
+            "id": "19631d5010305fac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Collecting/Web Scrapping.md",
+                "file": "github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56e42e0a49047d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "host.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Collecting/Web Scrapping.md",
+                "file": "github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Collecting/Web Scrapping.md",
+                "file": "github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Collecting/Web Scrapping.md"
+                "file": "github.md"
               }
             }
           }
@@ -159,13 +171,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "52040a8b1351aa05",
+  "active": "19631d5010305fac",
   "lastOpenFiles": [
-    "Networking/Networking.md",
+    "host.md",
+    "SCP.md",
+    "SSH.md",
     "Networking/MikroTik Scripting.md",
+    "github.md",
     "Data Collecting/Web Scrapping.md",
-    "BeautifulSoup.md",
+    "computer.md",
+    "Computer Files.md",
+    "Networking/Networking.md",
     "Без названия.md",
+    "BeautifulSoup.md",
     "Data Collecting",
     "Networking/MikroTik Basics.md",
     "Networking/MikroTik Routing.md",
