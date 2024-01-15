@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RouterOS Updates.md",
+                "file": "Networking/MikroTIk/RouterOS Updates.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RouterOS CLI.md",
+                "file": "Networking/MikroTIk/RouterOS CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,11 +203,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "19631d5010305fac",
+  "active": "e8ce69693beb30e6",
   "lastOpenFiles": [
-    "RouterOS Updates.md",
+    "Networking/MikroTIk/RouterOS Updates.md",
     "Networking/MikroTIk/MikroTik Basics.md",
-    "RouterOS CLI.md",
+    "Networking/MikroTIk/RouterOS CLI.md",
     "Networking/MikroTIk/RouterOS Monitoring and Logging.md",
     "Networking/MikroTIk/RouterOS VPN.md",
     "Networking/MikroTIk/RouterOS Wireless Configuration.md",
